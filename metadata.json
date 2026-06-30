@@ -1,0 +1,6 @@
+{
+  "name": "Student Management System",
+  "description": "A premium, high-fidelity SaaS student dashboard for modern academic administration and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
